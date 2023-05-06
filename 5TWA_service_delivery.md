@@ -1,4 +1,5 @@
 5TWA Service Delivery Privacy Policy
+
 5TWA Limited respects your privacy. 5TWA Mobile Limited and its affiliates (“5TWA” or the “Company”) offer mapping, GPS navigation, community based services  to users of www.5TWAMS.com (the “Website”) and/or users of 5TWA’s applications (the “Application”) (collectively referred to as the “Services”). When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, and delete your information. This Privacy Policy covers:
  
